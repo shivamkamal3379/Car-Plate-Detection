@@ -24,3 +24,9 @@ Thumbs.db
 
 # Model weights
 *.pt
+# Ignore model weights
+*.pt
+*.onnx
+*.engine
+*.tflite
+runs/
